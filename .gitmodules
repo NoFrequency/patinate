@@ -1,0 +1,3 @@
+[submodule "patination"]
+	path = patination
+	url = git@github.com:NoFrequency/patination.git
